@@ -2,12 +2,12 @@
 It's a FlightApp where are two functionalities:
 1. For requested Flight Number and date will respond with following :
 
-  a. Cargo Weight for requested Flight
-  http://localhost:8080/flightCargoWeight/{number}/{departure_Date}
+ ## a. Cargo Weight for requested Flight
+http://localhost:8080/flightCargoWeight/{number}/{departure_Date}
 
-  b. Baggage Weight for requested Flight
+ ## b. Baggage Weight for requested Flight
 http://localhost:8080/flightBaggageWeight/{number}/{departure_Date}
-  c. Total Weight for requested Flight
+ ## c. Total Weight for requested Flight
 http://localhost:8080/flightTotalWeight/{number}/{departure_Date}
 2. For requested IATA Airport Code and date will respond with following :
 
