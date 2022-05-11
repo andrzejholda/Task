@@ -2,7 +2,7 @@
 It's a FlightApp where are two functionalities:
 1. For requested Flight Number and date will respond with following :
 
- $ a. Cargo Weight for requested Flight
+ ##### a. Cargo Weight for requested Flight
 http://localhost:8080/flightCargoWeight/{number}/{departure_Date}
 
  ## b. Baggage Weight for requested Flight
