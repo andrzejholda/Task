@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 2167,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2019-01-29T07:55:16-01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 2552,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2019-02-16T08:15:29-01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 7809,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2021-06-29T05:49:45-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 3238,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2016-03-31T11:21:41-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 6939,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2016-08-31T09:34:03-02:00"
+  }
+]
